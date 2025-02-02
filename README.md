@@ -17,3 +17,10 @@ Carpeta que contiene el código utilizado durante el curso. Incluye scripts en P
 
 - **Descripción**: Código fuente organizado por temas.
 - **Ubicación**: [`/Código/`](./Código/)
+
+### Tutoría
+
+Documento `Recursos.md` con enlaces a los apuntes de las tutorías y código en Google Colab. Material para repasar y profundizar en los temas tratados.
+
+- **Descripción**: Enlaces y recursos adicionales de tutorías.
+- **Ubicación**: [`/Tutorías/Recursos.md`](./Tutorías/Recursos.md)
