@@ -40,6 +40,6 @@ Esta sección contiene recursos externos relevantes para el curso:
   - En este video, Steve Keen cuestiona la enseñanza tradicional de economía, evidenciando cómo los modelos estáticos y la idea de costos marginales crecientes no reflejan la realidad empresarial. Propone la Dinámica de Sistemas como una herramienta más efectiva para analizar procesos económicos reales y dinámicos. Si buscan ampliar su perspectiva y aplicar métodos innovadores en sus estudios, este video es imprescindible. ¡No se lo pierdan y descubran una nueva forma de entender la economía!
   - [Ver el video completo](https://www.youtube.com/watch?v=oO7iCv_NsPE)
 
-  - **Cómo resolver sistemas con valores propios complejos **
+- **Cómo resolver sistemas con valores propios complejos **
   - En esta página puedes encontrar la parte teórica y un ejemplo de un sistema con valores propios complejos, paso a paso.
   - [Ver página web](http://ltcconline.net/greenl/courses/204/Systems/complexEigenvalues.htm)
