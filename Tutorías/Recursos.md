@@ -13,3 +13,10 @@
 
 - **Revisión de sistemas lineales y variable compleja**  
   [Enlace](https://miro.com/app/board/uXjVIe-2w4I=/?share_link_id=779112522144)
+
+## 22 de febrero de 2025
+
+### Apuntes
+
+- **Clasificación de sistemas lineales y caso Jordan**  
+  [Enlace](https://miro.com/app/board/uXjVIbQ13xg=/?share_link_id=859699444929)
