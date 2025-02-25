@@ -20,3 +20,11 @@
 
 - **Clasificación de sistemas lineales y caso Jordan**  
   [Enlace](https://miro.com/app/board/uXjVIbQ13xg=/?share_link_id=859699444929)
+
+## 25 de febrero de 2025
+
+### Apuntes
+
+- **Sistemas lineales caso de valores propios complejos**  
+  [Enlace](https://miro.com/app/board/uXjVIZmncNU=/?share_link_id=116913152675)
+
