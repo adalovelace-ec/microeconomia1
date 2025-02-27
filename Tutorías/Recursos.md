@@ -27,4 +27,3 @@
 
 - **Sistemas lineales caso de valores propios complejos**  
   [Enlace](https://miro.com/app/board/uXjVIZmncNU=/?share_link_id=116913152675)
-
