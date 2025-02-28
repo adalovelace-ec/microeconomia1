@@ -27,3 +27,10 @@
 
 - **Sistemas lineales caso de valores propios complejos**  
   [Enlace](https://miro.com/app/board/uXjVIZmncNU=/?share_link_id=116913152675)
+
+## 27 de febrero de 2025
+
+### Apuntes
+
+- **Sistemas lineales repaso caso valores propios reales y distintos**  
+  [Enlace](https://miro.com/app/board/uXjVIYCWybw=/?share_link_id=30686199231)
