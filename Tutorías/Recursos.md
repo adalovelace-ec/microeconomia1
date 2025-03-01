@@ -34,3 +34,10 @@
 
 - **Sistemas lineales repaso caso valores propios reales y distintos**  
   [Enlace](https://miro.com/app/board/uXjVIYCWybw=/?share_link_id=30686199231)
+
+## 28 de febrero de 2025
+
+### Apuntes
+
+- **Sistemas no lineales**  
+  [Enlace](https://miro.com/app/board/uXjVIYdlX2E=/?share_link_id=932349211859)

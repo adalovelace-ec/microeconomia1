@@ -32,6 +32,13 @@ Documento `Recursos.md` con enlaces a los apuntes de las tutorías y código en 
 - **Descripción**: Enlaces y recursos adicionales de tutorías.
 - **Ubicación**: [`/Tutorías/Recursos.md`](./Tutorías/Recursos.md)
 
+### Trabajos Grupales
+
+Lista de estudiantes organizados por grupos de trabajo para los proyectos del curso sobre sistemas de ecuaciones diferenciales lineales.
+
+- **Descripción**: Información de contacto, repositorios y notebooks de trabajo de cada grupo.
+- **Ubicación**: [`/Trabajos-Grupales/tabla-estudiantes.md`](./Trabajos-Grupales/tabla-estudiantes.md)
+
 ### Enlaces de Interés
 
 Esta sección contiene recursos externos relevantes para el curso:
@@ -40,6 +47,6 @@ Esta sección contiene recursos externos relevantes para el curso:
   - En este video, Steve Keen cuestiona la enseñanza tradicional de economía, evidenciando cómo los modelos estáticos y la idea de costos marginales crecientes no reflejan la realidad empresarial. Propone la Dinámica de Sistemas como una herramienta más efectiva para analizar procesos económicos reales y dinámicos. Si buscan ampliar su perspectiva y aplicar métodos innovadores en sus estudios, este video es imprescindible. ¡No se lo pierdan y descubran una nueva forma de entender la economía!
   - [Ver el video completo](https://www.youtube.com/watch?v=oO7iCv_NsPE)
 
-- **Cómo resolver sistemas con valores propios complejos **
+- **Cómo resolver sistemas con valores propios complejos**
   - En esta página puedes encontrar la parte teórica y un ejemplo de un sistema con valores propios complejos, paso a paso.
   - [Ver página web](http://ltcconline.net/greenl/courses/204/Systems/complexEigenvalues.htm)
