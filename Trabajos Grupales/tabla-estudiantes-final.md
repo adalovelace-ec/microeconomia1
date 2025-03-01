@@ -24,11 +24,3 @@
 |  | Moonira Alejandra Vásquez Averos | - | [GitHub](https://github.com/mooniravasquez/Microeconomia-I) |  |
 | **9** | Andrés José Morales Pantoja | amoralespantofl@flacso.edu.ec | [GitHub](https://github.com/Andresmopa/micro_dinamycs) | [Colab Grupo 9](https://colab.research.google.com/drive/15a1fiikPlrrbSlLD7ohAZbQw-Md2BK4C?usp=sharing) |
 |  | Edwin David Yugsi Quinaucho | eyugsiquinaucfl@flacso.edu.ec | [GitHub](https://github.com/DavidYugsi/Micro-Sistemas-Ecuaciones-Diferenciales) |  |
-
----
-
-### Información de Acceso a Recursos
-
-- Los enlaces de **Notebook** corresponden al trabajo colaborativo por grupo
-- Cada integrante tiene su propio repositorio en **GitHub**
-- Para grupos con múltiples notebooks, se han numerado como Colab 1 y Colab 2

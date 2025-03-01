@@ -37,7 +37,7 @@ Documento `Recursos.md` con enlaces a los apuntes de las tutorías y código en 
 Lista de estudiantes organizados por grupos de trabajo para los proyectos del curso sobre sistemas de ecuaciones diferenciales lineales.
 
 - **Descripción**: Información de contacto, repositorios y notebooks de trabajo de cada grupo.
-- **Ubicación**: [`/Trabajos-Grupales/tabla-estudiantes.md`](./Trabajos-Grupales/tabla-estudiantes.md)
+- **Ubicación**: [`/Trabajos-Grupales/tabla-estudiantes.md`](./Trabajos-Grupales/tabla-estudiantes-final.md)
 
 ### Enlaces de Interés
 
