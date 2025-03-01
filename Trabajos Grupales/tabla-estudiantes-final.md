@@ -20,7 +20,7 @@
 |  | Tito Livio Madrid Tamayo | tmadridtamayofl@flacso.edu.ec | [GitHub](https://github.com/TitoMadrid/proyecto1) |  |
 | **7** | Luis Andrés Mejía Chávez | lmejiachavezfl@flacso.edu.ec | [GitHub](https://github.com/LuisMejia2103/Taller-Micro-1) | [Colab Grupo 7](https://colab.research.google.com/drive/1cnUYAV7miVPOeU-BHO_ktO421Zcb8wjQ?usp=sharing) |
 |  | Joáo Gerardo Taco Sánchez | jtacosanchezfl@flacso.edu.ec | [GitHub](https://github.com/jgtaco/Taller-micro-1/blob/main/README.md#taller-micro-1) |  |
-| **8** | Antonio Paolo Trávez Monge | - | - | [Drive Grupo 8](https://drive.google.com/file/d/1Kkgb2wtmPOhjbVXDTrQXblTq9ptXO8qy/view?usp=sharing) |
+| **8** | Antonio Paolo Trávez Monge | - | [GitHub](https://github.com/TON7T/EDOs-lineales-y-de-1er-orden) | [Drive Grupo 8](https://drive.google.com/file/d/1Kkgb2wtmPOhjbVXDTrQXblTq9ptXO8qy/view?usp=sharing) |
 |  | Moonira Alejandra Vásquez Averos | - | [GitHub](https://github.com/mooniravasquez/Microeconomia-I) |  |
 | **9** | Andrés José Morales Pantoja | amoralespantofl@flacso.edu.ec | [GitHub](https://github.com/Andresmopa/micro_dinamycs) | [Colab Grupo 9](https://colab.research.google.com/drive/15a1fiikPlrrbSlLD7ohAZbQw-Md2BK4C?usp=sharing) |
 |  | Edwin David Yugsi Quinaucho | eyugsiquinaucfl@flacso.edu.ec | [GitHub](https://github.com/DavidYugsi/Micro-Sistemas-Ecuaciones-Diferenciales) |  |
