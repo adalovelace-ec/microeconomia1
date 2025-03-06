@@ -4,7 +4,7 @@
 
 | Grupo | Integrantes | Correo Electrónico | Repositorio | Notebook |
 |:-----:|-------------|-------------------|------------|----------|
-| **0** | Erick Steven Acosta Ascuntar | - | - | - |
+| **0** | Erick Steven Acosta Ascuntar | esacostafl@flacso.edu.ec | [GitHub](https://github.com/Erick0611/Proyecto1_Micro.git) |[Colab Grupo 1](https://drive.google.com/file/d/1PPWwTL-XUljHGc1CZXnB5eO1EGethzUp/view?usp=sharing) |
 | **1** | Bolivar Esteban Alvarez Calvopiña | bealvarezfl@flacso.edu.ec | [GitHub](https://github.com/BolivarA/Dinamic-Graphs.git) | [Colab Grupo 1](https://colab.research.google.com/drive/1cli9sPA3iiWddsNj02b7p4hO3IskV_C3?usp=sharing) |
 |  | Jefferson Isaias Toapanta Tipanta | jitoapantafl@flacso.edu.ec | [GitHub](https://github.com/Jefferson-Toapanta/Dinamic-Graphs.git) |  |
 | **2** | Ronaldo Emanuel Batalla Arroyo | rbatallaarroyfl@flacso.edu.ec | [GitHub](https://github.com/REBA1996/proyecto-sistemas) | [Colab Grupo 2](https://colab.research.google.com/drive/14jvivlFx-hmsTM-ySJBsDvnsBIWVOvUb?usp=sharing) |
